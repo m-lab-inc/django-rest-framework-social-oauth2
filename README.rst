@@ -1,3 +1,7 @@
+# V-expo で使用中です
+
+Django 5.0 で動くようにしてあります
+
 Django REST Framework Social OAuth2
 ===================================
 
